@@ -1,0 +1,16 @@
+.ulcontainer {
+  background-color: rgb(154, 89, 214);
+  height: 100%;
+  list-style: none;
+}
+.ulcontainer li {
+  margin: 5px;
+  /* background-color: rgb(6, 100, 100); */
+  font-size: 20px;
+  color: aliceblue;
+}
+.userlistContainer {
+  height: 600px;
+  width: 100%;
+  background-color: rgb(154, 89, 214);
+}

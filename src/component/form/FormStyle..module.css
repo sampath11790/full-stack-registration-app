@@ -1,0 +1,40 @@
+.formcontainer {
+  background-color: rgb(154, 89, 214);
+  width: 100%;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.formcontainer h2 {
+  color: aliceblue;
+}
+.frombox {
+  background-color: rgb(197, 176, 218);
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  align-items: center;
+  border-radius: 10px;
+  /* justify-self: center; */
+}
+.frombox input {
+  border-style: none;
+  padding: 8px;
+  border-radius: 6px;
+}
+
+.frombox label {
+  font-weight: bold;
+}
+
+.frombox button {
+  padding: 7px;
+  border-style: none;
+  background-color: rgb(18, 18, 68);
+  color: aliceblue;
+  width: 150px;
+  font-size: 20px;
+  border-radius: 3px;
+}
